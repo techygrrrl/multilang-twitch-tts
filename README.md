@@ -1,3 +1,11 @@
+
+> [!IMPORTANT]  
+> While this app still works fine as of October 2025, this app is no longer being maintained.
+> 
+> See its replacement here: https://blog.techygrrrl.stream/twitch-multi-language-text-to-speech-tts-pwa
+
+---
+
 # Multilang Text-to-Speech (TTS) app for Twitch on Windows
 
 A multilingual text-to-speech (TTS) app for Windows.
